@@ -2,7 +2,7 @@
 A simple Android app to roll a die randomly
 
 ## Description
-This is my second Android App. It is a simple app to roll a die randomly.
+This is my second Android App. It is a simple app to roll a die randomly using Android Studio and Kotlin.
 
 ### Features 
 * Home Screen - displays an image and value of the randomly choosen die, when a button is tapped
