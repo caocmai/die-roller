@@ -1,8 +1,8 @@
 # Die Roller
-A simple Android app to roll a dice randomly
+A simple Android app to roll a die randomly
 
 ## Description
-A simple Android app to roll a dice randomly.
+This is my second Android App. It is a simple app to roll a die randomly.
 
 ### Features 
 * Home Screen - displays an image and value of the randomly choosen die, when a button is tapped
