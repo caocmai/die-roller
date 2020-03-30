@@ -5,7 +5,7 @@ A simple Android app to roll a dice randomly
 A simple Android app to roll a dice randomly.
 
 ### Features 
-* Home Screen - displays an image and value of the randomly choosen die, when a button is cliked
+* Home Screen - displays an image and value of the randomly choosen die, when a button is tapped
 
 ### App Walk-through
 ![](dieRollerProjectWalk.gif)
